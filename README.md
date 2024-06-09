@@ -6,6 +6,6 @@ This repository contains my solutions to the tasks assigned during the web devel
 
 ### Task 1 Responsive Landing Page
 
-![Task 1 Screenshot](Screenshots/QCW.png)
+![Task 1 Screenshot](Screenshots/LandingPage.png)
 
 
